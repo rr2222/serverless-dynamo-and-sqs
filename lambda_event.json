@@ -1,0 +1,11 @@
+{
+"data": {
+    "id": "96bbd2d7-7148-4a0e-8276-51aff2f1c782",
+    "username": "John",
+    "age": 18,
+    "transaction_type": "saque",
+    "quantidade": 2.000,
+    "cpf": "000.000.000-00"
+}
+}
+
